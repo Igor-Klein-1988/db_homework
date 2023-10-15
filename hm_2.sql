@@ -1,4 +1,4 @@
--- homework №1
+-- homework №2
 -- теория https://western-appeal-39b.notion.site/DB-2-Oct-11-2023-8a885a306ff1495b801ecf6248ce16a3
 -- 1. Вывести название и стоимость в USD одного самого дорогого проданного товара (не используя агрегацию)
 SELECT
